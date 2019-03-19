@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Mustafa Furkan Karakulak",
+        "departmant":".NET",
+        "salary":"3000"
+    },
+    {
+        "name":"Erdem Nalbur",
+        "departmant":"Team Leader",
+        "salary":"10000"
+    },
+    {
+        "name":"Ali Türk",
+        "departmant":"Java",
+        "salary":"40000"
+    }
+]

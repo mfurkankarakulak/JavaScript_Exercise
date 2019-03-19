@@ -10,3 +10,11 @@ inglizce --> https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c
     Var,Const,Let kullanımı aralarındaki fark nedir:
 
 turkce --> https://medium.com/@busramemis/js-var-const-ve-let-ce26bc9818f7
+
+    Http Response Status Code
+
+ingilizce-->https://developer.mozilla.org/tr/docs/Web/HTTP/Status
+
+    XMLHttpRequest  Ajax Kullanımı
+
+ingilizce-->https://www.w3schools.com/xml/ajax_xmlhttprequest_create.asp
