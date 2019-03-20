@@ -18,3 +18,11 @@ ingilizce-->https://developer.mozilla.org/tr/docs/Web/HTTP/Status
     XMLHttpRequest  Ajax Kullanımı
 
 ingilizce-->https://www.w3schools.com/xml/ajax_xmlhttprequest_create.asp
+
+    REST ve RESTful Web Servis Kavramı
+
+turkce --> https://denizirgin.com/rest-ve-restful-web-servis-kavram%C4%B1-30bc4400b9e0
+
+    REST ve SOAP API Nedir?
+
+turkce --> https://ceaksan.com/tr/rest-soap-api-nedir/
