@@ -26,3 +26,8 @@ turkce --> https://denizirgin.com/rest-ve-restful-web-servis-kavram%C4%B1-30bc44
     REST ve SOAP API Nedir?
 
 turkce --> https://ceaksan.com/tr/rest-soap-api-nedir/
+
+    Promise nedir yapısı nasıldır ? 
+
+turkce -->https://medium.com/codefiction/javascriptte-promise-kullan%C4%B1m%C4%B1-ccca1123989a
+inglizce -->https://javascript.info/promise-basics
